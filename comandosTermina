@@ -1,0 +1,7 @@
+code . -Abrir vsc
+ls -Lista de archivos dentro de la carpeta 
+clear -Limpiar terminal 
+mkdir -Crear carpeta
+touch -Crear archivos
+ca -Visualisar el archivo
+cd .. -Regresar entre carpetas 
